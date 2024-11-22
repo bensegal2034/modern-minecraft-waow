@@ -1542,20 +1542,5 @@ file = "shaderpacks/ComplementaryReimagined.zip"
 hash = "6e8234a2213c5a35238582d15dcc286584a029fbf42a993c1220188054799224"
 
 [[files]]
-file = "shaderpacks/bliss.pw.toml"
-hash = "b622638bc6ef2c2ae1c1521244f100a49a6dce924cc2a34248a9b131c797d2b9"
-metafile = true
-
-[[files]]
-file = "shaderpacks/complementaryreimagined.pw.toml"
-hash = "4b5c6e8f59521d42f8ecf9255b4cded4d9cff6a398bd908104ac2f705eb37f0d"
-metafile = true
-
-[[files]]
-file = "shaderpacks/photon.pw.toml"
-hash = "b59f2afb586650b375fbaf6492609816cec3bd344b7334f25fa576c2e14ddf2b"
-metafile = true
-
-[[files]]
 file = "shaderpacks/photon.zip"
 hash = "348c6f278f77cb8c26ee23a64506c84b1e5c4c6dc88776605bf5a2ad996d1684"
