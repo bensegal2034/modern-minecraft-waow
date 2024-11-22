@@ -1,9 +1,7 @@
 name = "ToadLib"
 filename = "ToadLib-1.20-1.20.4-1.1.5.jar"
-side = "both"
 
 [download]
 url = "https://bensegal2034.github.io/modern-minecraft-waow/jars/ToadLib-1.20-1.20.4-1.1.5.jar"
-
-hash-format = "sha1"
-hash = "a0c2de86551e6a44ff56b8f9e2102feb2be3830d"
+hash-format = "sha256"
+hash = "3d7022a94451c8fc079090d28e1abcfcfdb603c068fa32f9f1cd62698ea1ba80"

@@ -1,9 +1,7 @@
 name = "EBE"
 filename = "EBE-1.20-1.20.1-0.9.1B.jar"
-side = "both"
 
 [download]
 url = "https://bensegal2034.github.io/modern-minecraft-waow/jars/EBE-1.20-1.20.1-0.9.1B.jar"
-
-hash-format = "sha1"
-hash = "581ac917ce1708a708fe5c66eef82e1978972743"
+hash-format = "sha256"
+hash = "74020eab10de79a23333ea51fec316525e37494a3b9e2587146bf863039fa677"
