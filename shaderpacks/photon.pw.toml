@@ -1,9 +1,0 @@
-name = "photon"
-filename = "photon.zip"
-side = "client"
-
-[download]
-url = "https://bensegal2034.github.io/modern-minecraft-waow/shaderpacks/photon.zip"
-
-hash-format = "sha256"
-hash = "348c6f278f77cb8c26ee23a64506c84b1e5c4c6dc88776605bf5a2ad996d1684"

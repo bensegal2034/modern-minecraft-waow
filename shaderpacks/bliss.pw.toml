@@ -1,9 +1,0 @@
-name = "Bliss"
-filename = "Bliss.zip"
-side = "client"
-
-[download]
-url = "https://bensegal2034.github.io/modern-minecraft-waow/shaderpacks/Bliss.zip"
-
-hash-format = "sha256"
-hash = "33dd4636cf1aadc6f326751008e5f871f01794078981f077c2f2ef881fdaa33f"
