@@ -1,0 +1,13 @@
+name = "modern minecraft waow"
+author = "dot"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "f36f402e59102a13b6094120f1e0ff5e1a0498d39634de4e50889d24cba6245c"
+
+[versions]
+forge = "47.3.12"
+minecraft = "1.20.1"
