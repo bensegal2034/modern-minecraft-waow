@@ -473,6 +473,10 @@ file = "config/balm-common.toml"
 hash = "2e83e8a8f8e120214aeb50f55eb08f26c53b90e841c1949a9b7ca400f6c34088"
 
 [[files]]
+file = "config/betterf3.toml"
+hash = "2959bf96935589aaf129246f423746052b50c20b8f48444f8ca9cd4e5cffcab7"
+
+[[files]]
 file = "config/bloodmagic-client.toml"
 hash = "797d06917505ea9abaa843524f885960f5d182c20932a7c2e958f13925395d35"
 
@@ -523,6 +527,10 @@ hash = "e4802daebcc713c2e5991703ba9a142462a6023507bfa6fff155868a27bd30b7"
 [[files]]
 file = "config/cataclysm/koboleton_spawns.json"
 hash = "5831a4da569ac4fb3d7d5396967281b8bdad765c25cf3cd5c6a5d708952c2b16"
+
+[[files]]
+file = "config/chunksfadein.properties"
+hash = "f01ca941e23775cfea73a6b16d709c7fbe81dd0e30477a383a3c453272e39d06"
 
 [[files]]
 file = "config/citadel-common.toml"
