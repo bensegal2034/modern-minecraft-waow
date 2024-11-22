@@ -1207,9 +1207,8 @@ hash = "9780912a21d843e262d6f137ae4e7f95ae21e059e82c8a449b5930c767b06dc4"
 metafile = true
 
 [[files]]
-file = "mods/entityculling.pw.toml"
-hash = "7adcc1b24ce5ee8b14899b9eccc97e81f066d0fbcc9bb832444f1015f1c3947a"
-metafile = true
+file = "mods/entityculling-forge-1.7.1-mc1.20.1.jar"
+hash = "41fc0ba74b2c95780cb0ef7daa408cd99029df544fdee751e128d55da65f7272"
 
 [[files]]
 file = "mods/ferritecore.pw.toml"
