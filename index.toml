@@ -1274,6 +1274,11 @@ hash = "58fa0876dab1829a955937f3868fd6fead05fe347021758e6166e04c716c8917"
 metafile = true
 
 [[files]]
+file = "mods/iris-flw-compat.pw.toml"
+hash = "03c55a1cbe4e547abba255cd02d157cb0ce3f8b782daa33797048061751b0f55"
+metafile = true
+
+[[files]]
 file = "mods/irons-spells-n-spellbooks.pw.toml"
 hash = "628bf8682b15f4be0656d4d7a583ece81fc90560598001453a3da152074581a6"
 metafile = true
@@ -1400,7 +1405,7 @@ metafile = true
 
 [[files]]
 file = "mods/oculus.pw.toml"
-hash = "0663919544b1f185be64b69269f5e914d2fae910fb8ee16d4cd9549d809e71cd"
+hash = "2f8d1c3e8ff75a265ba6703a488c6fa7edc69cd9a01418ed1a6884e57a3e3ade"
 metafile = true
 
 [[files]]
