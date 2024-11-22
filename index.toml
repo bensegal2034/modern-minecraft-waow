@@ -705,6 +705,10 @@ file = "config/fabric/indigo-renderer.properties"
 hash = "67b9095f542fb81b18389b431053888769fbaad37376d3d27cf4abcc7670792c"
 
 [[files]]
+file = "config/fabric_loader_dependencies.json"
+hash = "44386bb58da3a2f62297654d1609671e083bbe9acb5150379173c5aa8a57c95e"
+
+[[files]]
 file = "config/ferritecore-mixin.toml"
 hash = "c164439c632aa7c95c07edec5cfef74b8e2d5671a8445a781deeb4de7ad0c8b6"
 
@@ -1121,6 +1125,11 @@ metafile = true
 [[files]]
 file = "mods/cardinal-components-api.pw.toml"
 hash = "6f0676fe7167a5a5e992ac1588e5a7f62bb6ffcaad158d7f1ace220c73adb938"
+metafile = true
+
+[[files]]
+file = "mods/chunks-fade-in.pw.toml"
+hash = "615f493a610e1c1c66c558e5a5c8943b95c639fffe50abf6c605784ef6a0cade"
 metafile = true
 
 [[files]]
