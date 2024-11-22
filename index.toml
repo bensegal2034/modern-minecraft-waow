@@ -578,7 +578,7 @@ hash = "e4f701b756e90c715439c6cb1b5840e1b8ac88ad2a7227926b1d4d4d5a54ea69"
 
 [[files]]
 file = "config/defaultoptions/servers.dat"
-hash = "f61faa949e80c7df6d927bb6f5199c99990a72502d9fe08edc62ce5fc4ae65ac"
+hash = "126bacab675bf93e4fdaa0c7a949a621176fb9a982045975dc5290b06a00c6ef"
 
 [[files]]
 file = "config/durabilitytooltip-common.toml"
@@ -1535,15 +1535,15 @@ metafile = true
 
 [[files]]
 file = "shaderpacks/bliss.pw.toml"
-hash = "bf64ab5b1a6bcf958757c5dfb4e5663d4faf3a9fe4abe6998031d178695216d4"
+hash = "d894348cfd577a977545a4d8455775fdc97349637e1abdfdc94ac390aaec374f"
 metafile = true
 
 [[files]]
 file = "shaderpacks/complementaryreimagined.pw.toml"
-hash = "aef929e7afda0cc887e9d82480b1a59fb44ff7cd93377042c2bb2134bfdc54ac"
+hash = "32a7196431a35b778b1784911c938b9cd87dc6bb4829619c462651dbe2d2ca89"
 metafile = true
 
 [[files]]
 file = "shaderpacks/photon.pw.toml"
-hash = "4e38cb38a9397af77fa8bc978c3d751d13e097796bd2680dbf61fa51a267be6d"
+hash = "c796a7fca8e31ad563f3429276c9eec8a2b90fb3e6cb57209cd14598d250b1cc"
 metafile = true
