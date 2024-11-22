@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = ".github/workflows/main.yml"
+hash = "65c098eb8cc0ea6205a5485fc99e6ae01f8f166f7b64a62264638f5a811eb720"
+
+[[files]]
 file = "config/DistantHorizons.toml"
 hash = "b20a4ceecf3bb689404de990bc143698de6a71ace10a4776a986a03ba79abb47"
 
