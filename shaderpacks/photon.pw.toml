@@ -1,5 +1,6 @@
 name = "photon"
 filename = "photon.zip"
+side = "client"
 
 [download]
 url = "https://bensegal2034.github.io/modern-minecraft-waow/shaderpacks-zips/photon.zip"

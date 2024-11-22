@@ -1,5 +1,6 @@
 name = "Bliss"
 filename = "Bliss.zip"
+side = "client"
 
 [download]
 url = "https://bensegal2034.github.io/modern-minecraft-waow/shaderpacks-zips/Bliss.zip"
