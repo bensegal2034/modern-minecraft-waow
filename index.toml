@@ -469,6 +469,10 @@ file = "config/attributeslib.cfg"
 hash = "fe85b449a9f8e1b5b74799822840aedfb5e2b8e269cbb1503f6d4c12a7a47fe7"
 
 [[files]]
+file = "config/balm-common.toml"
+hash = "2e83e8a8f8e120214aeb50f55eb08f26c53b90e841c1949a9b7ca400f6c34088"
+
+[[files]]
 file = "config/bloodmagic-client.toml"
 hash = "797d06917505ea9abaa843524f885960f5d182c20932a7c2e958f13925395d35"
 
@@ -559,6 +563,22 @@ hash = "ebc96c813d601e9c61b6929a8490e71fa990dc64918c19e1f9937bb275510abc"
 [[files]]
 file = "config/curios-common.toml"
 hash = "5fe808869d46a4b80e1191fbe40f40a4d63987beda0eaeb2d89b909a990ea2ea"
+
+[[files]]
+file = "config/defaultoptions-common.toml"
+hash = "3c6307abe209aeab5c7ae65e011e1460d59826bde479b284c297f876cbb07355"
+
+[[files]]
+file = "config/defaultoptions/keybindings.txt"
+hash = "f3c63c2445bacb3ea0e4fe10e29d3f0b22101b9edd5d1b389c3cab66cd4ff3ff"
+
+[[files]]
+file = "config/defaultoptions/options.txt"
+hash = "e4f701b756e90c715439c6cb1b5840e1b8ac88ad2a7227926b1d4d4d5a54ea69"
+
+[[files]]
+file = "config/defaultoptions/servers.dat"
+hash = "f61faa949e80c7df6d927bb6f5199c99990a72502d9fe08edc62ce5fc4ae65ac"
 
 [[files]]
 file = "config/durabilitytooltip-common.toml"
@@ -666,11 +686,15 @@ hash = "09ff183e061d93b79514bc171bf9118497578757e7a5c45946039487656e2619"
 
 [[files]]
 file = "config/embeddium-options.json"
-hash = "b4b0aaec74cd2c37a2d0d384a4195768d8d7cbc9f86c7d993694e394fa35664d"
+hash = "5a54deacbba70f6d22c958e0859f4316bd561c63c147487c1f8db9864aaddf28"
 
 [[files]]
 file = "config/enchdesc.json"
 hash = "69e1df6089b71c3c2fe2c7cf6760937094fd22434111f527229a9fcea3f90bc5"
+
+[[files]]
+file = "config/enhanced_bes.json"
+hash = "b56d629dbeb8e30bb1c102a1c34c008bc0d3519aa4361468451c039c0c7a496e"
 
 [[files]]
 file = "config/entityculling.json"
@@ -678,7 +702,7 @@ hash = "6713fe6d14a898826c783e2531370836d3f95aaeef174867d808dca702d45f45"
 
 [[files]]
 file = "config/fabric/indigo-renderer.properties"
-hash = "14da0f061bca643d3fd73c5e4c6190a7ff8e062f509c44340127f80782d437c9"
+hash = "67b9095f542fb81b18389b431053888769fbaad37376d3d27cf4abcc7670792c"
 
 [[files]]
 file = "config/ferritecore-mixin.toml"
@@ -866,7 +890,7 @@ hash = "2da918542d7e57dad43c0b0614f5d79ddf67989016a71ef2d61344163edd7f1e"
 
 [[files]]
 file = "config/oculus.properties"
-hash = "8e61eb48b69d016764efb6870d24fa1cd386bfb5ca407224627778537ee32bca"
+hash = "aca1a063232420c3da88a911c7de932bfe2e7a26b5f26aa5b11fe8eecc0e6b0d"
 
 [[files]]
 file = "config/patchouli-client.toml"
@@ -906,7 +930,7 @@ hash = "43a7425a314be7d78c2e31d44ab8f46c5ee824ab10906ab8909923d23646b6ad"
 
 [[files]]
 file = "config/powah.json5"
-hash = "84736c56c9bd3d07273279b128bd9eb11a825b7ec1a7ea1e2f1b64d607e030d3"
+hash = "7ba135f66cb7ed1d7decfa7478be82e0f6b3f0498a25909ed3dd50f7462d71e3"
 
 [[files]]
 file = "config/projectile_damage.json"
@@ -1073,6 +1097,11 @@ hash = "e9179c6f362e82c08ffb103a8e19c7dbdbeb18b24cca69ffacbd8b1929e23031"
 metafile = true
 
 [[files]]
+file = "mods/balm.pw.toml"
+hash = "54728d260dd32fba42550ef0e287af0bf00c239771f9a093bc6db2486fcdcaa7"
+metafile = true
+
+[[files]]
 file = "mods/blood-magic.pw.toml"
 hash = "488623331de35d0132795aeb028cca441fc0d5c2e358faf25e973894fb3859a7"
 metafile = true
@@ -1140,6 +1169,11 @@ metafile = true
 [[files]]
 file = "mods/curios.pw.toml"
 hash = "750841548ae0990fca6a11691760b394623d3316bc1eaad47ad7ee0ec5a906c9"
+metafile = true
+
+[[files]]
+file = "mods/default-options.pw.toml"
+hash = "04982248fbfb09fe69f8075d589bc0bc8fab58bd98e165100f0e9da8045119d8"
 metafile = true
 
 [[files]]
@@ -1496,10 +1530,6 @@ metafile = true
 file = "mods/valhelsia-core.pw.toml"
 hash = "d8d6daa50fdac46d3176520da691a94c6905465c164dd07458ac02338ae2f62f"
 metafile = true
-
-[[files]]
-file = "options.txt"
-hash = "a7ee56d84e3c67846b255c83d65e89390e4f7c1023166496d8995d78d8e9cf8e"
 
 [[files]]
 file = "shaderpacks/Bliss_v2.0.4_(Chocapic13_Shaders_edit).zip"
