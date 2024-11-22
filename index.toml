@@ -1094,11 +1094,6 @@ hash = "54728d260dd32fba42550ef0e287af0bf00c239771f9a093bc6db2486fcdcaa7"
 metafile = true
 
 [[files]]
-file = "mods/bliss.pw.toml"
-hash = "bf6baf4062dfc60fb214c3b84f9e8047fc0bd7a3d8e9b95620485460f58d3b5c"
-metafile = true
-
-[[files]]
 file = "mods/blood-magic.pw.toml"
 hash = "488623331de35d0132795aeb028cca441fc0d5c2e358faf25e973894fb3859a7"
 metafile = true
@@ -1539,13 +1534,28 @@ hash = "d8d6daa50fdac46d3176520da691a94c6905465c164dd07458ac02338ae2f62f"
 metafile = true
 
 [[files]]
-file = "shaderpacks/Bliss.zip"
+file = "shaderpacks-zips/Bliss.zip"
 hash = "33dd4636cf1aadc6f326751008e5f871f01794078981f077c2f2ef881fdaa33f"
 
 [[files]]
-file = "shaderpacks/ComplementaryReimagined.zip"
+file = "shaderpacks-zips/ComplementaryReimagined.zip"
 hash = "6e8234a2213c5a35238582d15dcc286584a029fbf42a993c1220188054799224"
 
 [[files]]
-file = "shaderpacks/photon.zip"
+file = "shaderpacks-zips/photon.zip"
 hash = "348c6f278f77cb8c26ee23a64506c84b1e5c4c6dc88776605bf5a2ad996d1684"
+
+[[files]]
+file = "shaderpacks/bliss.pw.toml"
+hash = "bf64ab5b1a6bcf958757c5dfb4e5663d4faf3a9fe4abe6998031d178695216d4"
+metafile = true
+
+[[files]]
+file = "shaderpacks/complementaryreimagined.pw.toml"
+hash = "aef929e7afda0cc887e9d82480b1a59fb44ff7cd93377042c2bb2134bfdc54ac"
+metafile = true
+
+[[files]]
+file = "shaderpacks/photon.pw.toml"
+hash = "4e38cb38a9397af77fa8bc978c3d751d13e097796bd2680dbf61fa51a267be6d"
+metafile = true
