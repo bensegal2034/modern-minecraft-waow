@@ -1,0 +1,8 @@
+name: "Create .mrpack and make new release"
+
+on: [push]
+
+jobs: 
+    create-mrpack:
+        runs-on: "ubuntu-latest"
+        
