@@ -1,0 +1,9 @@
+name = "EntityCulling"
+filename = "entityculling-forge-1.7.1-mc1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://bensegal2034.github.io/modern-minecraft-waow/mods/entityculling-forge-1.7.1-mc1.20.1.jar"
+
+hash-format = "sha256"
+hash = "41fc0ba74b2c95780cb0ef7daa408cd99029df544fdee751e128d55da65f7272"

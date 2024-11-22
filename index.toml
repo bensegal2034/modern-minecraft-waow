@@ -1182,6 +1182,11 @@ hash = "4a66eb10fbfd1a9cc225eb6c4eadfc03a7938e0427641d25802b7d32748f7a11"
 metafile = true
 
 [[files]]
+file = "mods/ebe.pw.toml"
+hash = "9f538d070e5ff65539873fbcd76e7ce639da4f29386a2e97b3ec95612d12cb08"
+metafile = true
+
+[[files]]
 file = "mods/eccentric-tome.pw.toml"
 hash = "cae1dba77a14bdc6857c29406920d9cc704561e7b6f21b4688800b77a062a4f2"
 metafile = true
@@ -1209,6 +1214,11 @@ metafile = true
 [[files]]
 file = "mods/entityculling-forge-1.7.1-mc1.20.1.jar"
 hash = "41fc0ba74b2c95780cb0ef7daa408cd99029df544fdee751e128d55da65f7272"
+
+[[files]]
+file = "mods/entityculling.pw.toml"
+hash = "f5d816431afbd9abc410ec1361b213ad03bf940af022bbaa0dc810b9236c137d"
+metafile = true
 
 [[files]]
 file = "mods/ferritecore.pw.toml"
@@ -1506,6 +1516,11 @@ hash = "5e41fd8f565e09e83868e4c4776154befd3203b01ed5f09b6f7cd27687ec0041"
 metafile = true
 
 [[files]]
+file = "mods/toadlib.pw.toml"
+hash = "20edb759e2e0dbbcf42171d5b6ce24b9cc42b981dc7bdfcbd2262ddaa81ce757"
+metafile = true
+
+[[files]]
 file = "mods/tome-of-blood-rebirth.pw.toml"
 hash = "5dccfff265f9a6c8a38a46a09d2034617045588671af2ea04b6ffe922b469506"
 metafile = true
@@ -1531,13 +1546,28 @@ hash = "d8d6daa50fdac46d3176520da691a94c6905465c164dd07458ac02338ae2f62f"
 metafile = true
 
 [[files]]
-file = "shaderpacks/Bliss_v2.0.4_(Chocapic13_Shaders_edit).zip"
+file = "shaderpacks/Bliss.zip"
 hash = "33dd4636cf1aadc6f326751008e5f871f01794078981f077c2f2ef881fdaa33f"
 
 [[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.3.zip"
+file = "shaderpacks/ComplementaryReimagined.zip"
 hash = "6e8234a2213c5a35238582d15dcc286584a029fbf42a993c1220188054799224"
 
 [[files]]
-file = "shaderpacks/photon_v1.0a.zip"
+file = "shaderpacks/bliss.pw.toml"
+hash = "b622638bc6ef2c2ae1c1521244f100a49a6dce924cc2a34248a9b131c797d2b9"
+metafile = true
+
+[[files]]
+file = "shaderpacks/complementaryreimagined.pw.toml"
+hash = "4b5c6e8f59521d42f8ecf9255b4cded4d9cff6a398bd908104ac2f705eb37f0d"
+metafile = true
+
+[[files]]
+file = "shaderpacks/photon.pw.toml"
+hash = "b59f2afb586650b375fbaf6492609816cec3bd344b7334f25fa576c2e14ddf2b"
+metafile = true
+
+[[files]]
+file = "shaderpacks/photon.zip"
 hash = "348c6f278f77cb8c26ee23a64506c84b1e5c4c6dc88776605bf5a2ad996d1684"
