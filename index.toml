@@ -1114,6 +1114,11 @@ hash = "5155ae1ca2c606df2001422a48cd167d2449160d5fe12a302753dee69af7fe92"
 metafile = true
 
 [[files]]
+file = "mods/cardinal-components-api.pw.toml"
+hash = "6f0676fe7167a5a5e992ac1588e5a7f62bb6ffcaad158d7f1ace220c73adb938"
+metafile = true
+
+[[files]]
 file = "mods/citadel.pw.toml"
 hash = "3cdf0c628239ca09dd0378d39008729b17d4916aeed9e60c0b2d75f5bcc3b4be"
 metafile = true
@@ -1175,7 +1180,7 @@ metafile = true
 
 [[files]]
 file = "mods/ebe.pw.toml"
-hash = "37bdab09f29ebaf73019b19b5f6cb1dc666d41f0dc1be032888a246970fef02d"
+hash = "d2adea052089ca9297aff4de7913e5773eb21bb041cd6f4b9ebd2ec8b209e280"
 metafile = true
 
 [[files]]

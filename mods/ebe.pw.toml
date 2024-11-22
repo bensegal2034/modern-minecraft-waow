@@ -1,5 +1,6 @@
 name = "EBE"
 filename = "EBE-1.20-1.20.1-0.9.1B.jar"
+side = "client"
 
 [download]
 url = "https://bensegal2034.github.io/modern-minecraft-waow/jars/EBE-1.20-1.20.1-0.9.1B.jar"
