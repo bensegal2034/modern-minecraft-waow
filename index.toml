@@ -1102,7 +1102,7 @@ metafile = true
 
 [[files]]
 file = "mods/balm.pw.toml"
-hash = "54728d260dd32fba42550ef0e287af0bf00c239771f9a093bc6db2486fcdcaa7"
+hash = "55b13b685b386dd40c882946bb00545c7997a652a653c0000fe6610b1360fad8"
 metafile = true
 
 [[files]]
@@ -1133,6 +1133,11 @@ metafile = true
 [[files]]
 file = "mods/cardinal-components-api.pw.toml"
 hash = "6f0676fe7167a5a5e992ac1588e5a7f62bb6ffcaad158d7f1ace220c73adb938"
+metafile = true
+
+[[files]]
+file = "mods/chest-search-bar.pw.toml"
+hash = "4b6759d7bbd1d95c68919659c2263c2c71590af72743655a2ac0d2a8c7bfb44d"
 metafile = true
 
 [[files]]
@@ -1286,6 +1291,11 @@ hash = "58fa0876dab1829a955937f3868fd6fead05fe347021758e6166e04c716c8917"
 metafile = true
 
 [[files]]
+file = "mods/inventory-sorter.pw.toml"
+hash = "537f95eb95c08a7510b7151d2960904d2fae3ccd515a5f369063c11f707584fb"
+metafile = true
+
+[[files]]
 file = "mods/irons-spells-n-spellbooks.pw.toml"
 hash = "628bf8682b15f4be0656d4d7a583ece81fc90560598001453a3da152074581a6"
 metafile = true
@@ -1313,6 +1323,11 @@ metafile = true
 [[files]]
 file = "mods/just-enough-resources-jer.pw.toml"
 hash = "2f4dd47f2ac99a55c332638116596bbdc38a06ac86336bb662e42c604c3a96e6"
+metafile = true
+
+[[files]]
+file = "mods/keep-some-inventory.pw.toml"
+hash = "3e7a0d8a040d12881c1530723ca677ebde658b429663f2cfccde765a55ca9fc5"
 metafile = true
 
 [[files]]
@@ -1398,6 +1413,11 @@ metafile = true
 [[files]]
 file = "mods/mutil.pw.toml"
 hash = "4e0ebdb97b93b545a2ab458e7aea179a32564234a7828fe4ecbee415d68916a2"
+metafile = true
+
+[[files]]
+file = "mods/netherportalfix.pw.toml"
+hash = "820d6b97344411476b96ae2bc8a3e4b9e30e15dfd15d8d0c945726b0011928d4"
 metafile = true
 
 [[files]]
