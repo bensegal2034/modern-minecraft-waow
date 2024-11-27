@@ -1186,6 +1186,11 @@ hash = "8782d120f8b3e8439595af87a84d8e955ecdcf2e7abcf1a2ce85c413f085daa3"
 metafile = true
 
 [[files]]
+file = "mods/createaddition.pw.toml"
+hash = "274ead8f01184fb94bcb6d421f03924c2c7a0d10fee7c201154c549253b216ef"
+metafile = true
+
+[[files]]
 file = "mods/culllessleaves-reforged.pw.toml"
 hash = "e38d187eefae043e892eb6ce932f5360718d02d71f9e8072e8ec38ec0667753b"
 metafile = true
