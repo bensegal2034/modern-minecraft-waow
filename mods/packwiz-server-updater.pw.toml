@@ -1,0 +1,13 @@
+name = "Packwiz Server Updater"
+filename = "packwizsu-2.1.1.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/gJUTDRJj/versions/aomu0F84/packwizsu-2.1.1.jar"
+hash-format = "sha512"
+hash = "c8a44fe3bd482d81ac06c793fc372d6bee77c31fb858fac0f6daa0066b31b7906cd9abfbbd178dec4fc041650a572f0bcc52cc14b61416f7bca9747cf9693696"
+
+[update]
+[update.modrinth]
+mod-id = "gJUTDRJj"
+version = "aomu0F84"

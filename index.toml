@@ -1181,11 +1181,6 @@ hash = "1e56f528d8e21b0cf9c52c3d6deea2a4eafa408170b39a070195dbf66617f373"
 metafile = true
 
 [[files]]
-file = "mods/corpse.pw.toml"
-hash = "95521ed1b9e5d430cfd7920661b74dbfaf5035e7a5edd9ef44b9eb14db3a70b8"
-metafile = true
-
-[[files]]
 file = "mods/create.pw.toml"
 hash = "8782d120f8b3e8439595af87a84d8e955ecdcf2e7abcf1a2ce85c413f085daa3"
 metafile = true
@@ -1433,6 +1428,11 @@ metafile = true
 [[files]]
 file = "mods/oculus.pw.toml"
 hash = "2f8d1c3e8ff75a265ba6703a488c6fa7edc69cd9a01418ed1a6884e57a3e3ade"
+metafile = true
+
+[[files]]
+file = "mods/packwiz-server-updater.pw.toml"
+hash = "2a204e54eaad0bd94756fa1963323f2cb339d520c02bdc889e7a5047e943cad7"
 metafile = true
 
 [[files]]
